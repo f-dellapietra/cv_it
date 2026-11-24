@@ -1,0 +1,11 @@
+# File generati dalla compilazione LaTeX (il PDF è pubblicato dalla GitHub Action su gh-pages)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.bbl
+*.blg
+main.pdf
